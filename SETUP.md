@@ -4,6 +4,7 @@
 
 ## How to work through it
 
+- **The files are in this repo.** Every path below starts from the repo's top folder. If you can only read single files, each one is at https://raw.githubusercontent.com/joelbrilliant/how-i-use-ai/main/ followed by its path.
 - **One setup at a time.** For each one, say in a line what it does, show the exact text you'd add, say where it goes in their tool, and wait for their yes.
 - **They make the changes.** Don't install anything, run anything, connect any account, change any setting or send anything. If a setup needs a setting changed, tell them where to find it and let them do it. If you're an agent that works with files on their computer, you may create a file in a folder they choose, after their yes.
 - **Ask about their tool first.** Find out which AI tool they use, and whether it has standing instructions (often called custom instructions or personalisation), projects, a memory feature, file access and scheduled tasks. Fit each setup to what their tool has.
@@ -12,7 +13,7 @@
 
 ## The setups, in order
 
-1. **Ground rules.** `setups/ground-rules.md`. These go in their standing instructions. If their tool reads an instructions file, `AGENTS.md` is a fuller version. Explained at https://itsbrill.ai/guide/ground-rules
+1. **Ground rules.** `setups/ground-rules.md`. These go in their standing instructions. If their tool reads an instructions file, `AGENTS.md` is a fuller version. If their instructions box is small, `setups/short-set.md` covers setups 1, 3, 4 and 5 in about 800 characters. Explained at https://itsbrill.ai/guide/ground-rules
 2. **A memory that works.** `setups/memory-note.md`. Run the interview, then help them save the note where they'll find it. Show them the end-of-session prompt too. Explained at https://itsbrill.ai/guide/04-make-it-yours
 3. **Straight answers.** `setups/straight-answers.md`. These go in their standing instructions. Explained at https://itsbrill.ai/guide/straight-answers
 4. **Check the facts.** `setups/check-the-facts.md` and `setups/gaps-not-guesses.md`. Help them choose one fixed check for the kind of document they can least afford to get wrong. Explained at https://itsbrill.ai/guide/check-the-facts
@@ -23,6 +24,8 @@
 9. **Test your setup.** `checks/ten-tasks.md`. Help them list three to ten real jobs and what good looks like for each. Explained at https://itsbrill.ai/guide/12-check-the-work
 
 `setups/prompting.md` has everyday prompting techniques worth showing them at any point, including asking you to write a prompt and then answer it. `setups/which-model.md` helps them pick a model or a thinking mode for a job, and the other files are templates the guide mentions.
+
+Connecting their tools and running more than one agent aren't here, because they change what an agent can reach. The guide covers them for the person to do themselves. `setups/at-work.md` is for someone setting the rules for a team.
 
 ## When you're done
 

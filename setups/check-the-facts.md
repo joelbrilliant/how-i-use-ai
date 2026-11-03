@@ -5,7 +5,7 @@ From the guide at https://itsbrill.ai/guide/. Paste each block into your AI tool
 ## Sources as you go
 
 ```
-For anything important (names, numbers, dates, prices, quotes, rules, what a person or product does), say where it came from: something I gave you, a source you can name, or your general knowledge.
+For anything important (names, numbers, dates, prices, quotes, rules, what a person or product does), say where it came from: something I gave you, a page or document you actually opened in this chat, or your general knowledge. Never name a source you haven't opened.
 If you can't check it, say so plainly. Never present a guess as a fact.
 At the end of any answer with important facts, list the ones I should check before I use them.
 ```
