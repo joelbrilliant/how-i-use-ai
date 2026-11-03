@@ -25,3 +25,7 @@ Open any file and copy what you need. If your tool can't read web pages, use Git
 - `real/` holds my own files, cleaned, shown for the idea.
 
 The guide explains each one: https://itsbrill.ai/guide/
+
+## Licence
+
+These setups are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can copy, change and share them, including at work, as long as you credit Joel Brilliant (itsbrill.ai). The full licence is in `LICENSE`.
