@@ -21,7 +21,7 @@ Open any file and copy what you need. If your tool can't read web pages, use Git
 - `skills/` holds nine starter skills, plus a real one of mine. Each has a block under "Copy-paste prompt" you can paste into any chat.
 - `checks/ten-tasks.md` is the test sheet and marking prompt.
 - `routines/morning-brief.md` is the morning brief routine.
-- `profile.md`, `handover-note.md`, `handoff-note.md`, `connection-log.md` and `cockpit.md` are short templates.
+- `profile.md`, `handover-note.md` (from one chat to the next), `agent-handoff-note.md` (from one agent to another), `connection-log.md` and `cockpit.md` are short templates.
 - `real/` holds my own files, cleaned, shown for the idea.
 
 The guide explains each one: https://itsbrill.ai/guide/

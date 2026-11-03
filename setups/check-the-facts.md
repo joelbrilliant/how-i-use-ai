@@ -37,6 +37,7 @@ If you can't, give me a numbered checklist where every item is a plain yes or no
 
 Check that:
 - [the numbers add up and the totals match]
+- [every figure in the draft matches the source below]
 - [every date is real and in the right year]
 - [every required section is there: list them]
 - [no square-bracket gaps are left]
@@ -44,4 +45,7 @@ Check that:
 
 Draft:
 [paste the draft]
+
+Source:
+[paste the figures or document the draft is based on]
 ```
