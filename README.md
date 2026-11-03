@@ -16,7 +16,7 @@ SETUP.md is written so your agent asks you before every step, and it doesn't ins
 
 Open any file and copy what you need. If your tool can't read web pages, use GitHub's Download ZIP button.
 
-- `setups/` has every copy-paste block from the guide's setup pages, one file per setup. Start with `ground-rules.md` and `memory-note.md`.
+- `setups/` has every copy-paste block from the guide's setup pages, one file per setup. Start with `ground-rules.md` and `memory-note.md`, and see `prompting.md` for everyday prompting techniques.
 - `AGENTS.md` is a starter contract for agent tools that read an instructions file.
 - `skills/` holds nine starter skills, plus a real one of mine. Each has a block under "Copy-paste prompt" you can paste into any chat.
 - `checks/ten-tasks.md` is the test sheet and marking prompt.

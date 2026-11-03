@@ -22,7 +22,7 @@
 8. **Routines.** `setups/routines.md`. Only if their tool has scheduled tasks, and only after they've run the routine by hand. Explained at https://itsbrill.ai/guide/11-put-it-on-a-schedule
 9. **Test your setup.** `checks/ten-tasks.md`. Help them list three to ten real jobs and what good looks like for each. Explained at https://itsbrill.ai/guide/12-check-the-work
 
-`setups/which-model.md` helps them pick a model or a thinking mode for a job, and the other files are templates the guide mentions.
+`setups/prompting.md` has everyday prompting techniques worth showing them at any point, including asking you to write a prompt and then answer it. `setups/which-model.md` helps them pick a model or a thinking mode for a job, and the other files are templates the guide mentions.
 
 ## When you're done
 
